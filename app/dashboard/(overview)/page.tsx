@@ -7,7 +7,7 @@ import {
   LatestInvoicesSkeleton,
   RevenueChartSkeleton,
 } from '@/app/ui/skeletons';
-import AcmeLogo from '../../ui/acme-logo';
+// import AcmeLogo from '../../ui/acme-logo';
 import CardWrapper from '@/app/ui/dashboard/cards';
 
 import { Metadata } from 'next';
